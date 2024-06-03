@@ -1,7 +1,7 @@
 {
-   "prefix": "$",
+   "prefix": "/",
    "ownerIDS": [
-      "1070619070468214824"
+      "https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL"
    ],
    
    "bannermusic": "https://m.soundcloud.com/dualipa/levitating",
@@ -13,18 +13,18 @@
    "google_Engine_id": "",
 
    "botlogs": {
-      "feedbackChannel": "1198448086079512586",
-      "bugChannel": "1198448189582364705",
-      "suggestionChannel": "1195178427087589392",
-      "commandLogsChannel": "1198454118008754348",
-      "errorLogsChannel": "1198450693292441691"
+      "feedbackChannel": "",
+      "bugChannel": "",
+      "suggestionChannel": "",
+      "commandLogsChannel": "",
+      "errorLogsChannel": ""
    },
   
    "status": {
       "text": "{membercount} Members in {guildcount} Servers",
       "text2": "$help | Olympus Development",
       "type": "PLAYING",
-      "url": "https://www.twitch.tv/sonu_jana"
+      "url": ""
    },
    "clientsettings": {
       "nodes": [
